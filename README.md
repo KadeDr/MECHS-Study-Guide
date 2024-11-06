@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
   <body style="background-color:gray;">
     <H1> TS | Test Site </H1>
