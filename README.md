@@ -2,6 +2,6 @@
 
 <html>
   <body>
-    <h1 style="color:red"> TS | Test Site 2 </h1>
+    <p1 style="color:red"> TS | Test Site 2 </p1>
   </body>
 </html>
